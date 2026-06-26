@@ -43,7 +43,7 @@ Target:
    - Confusion Matrix
 
 ## Results
-- Model Accuracy: 100% (or your actual accuracy if different)
+- Model Accuracy: 96% to 100%
 
 ## Files
 - irisclassification.py
